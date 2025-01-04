@@ -8,3 +8,7 @@ Download the game (Only for Android):
 https://code-kiwi.itch.io/decorate-christmas-tree
 
 For the files directly from the Scratch engine, check through the release section or access it from the Scratch website in the link above.
+
+# Attributions
+
+Music used in this game is "jingle bells christmas music box" by music_for_video on Pixabay under license for fair use.
