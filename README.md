@@ -1,8 +1,10 @@
-# Finished Projects
-Finished Projects and developments.
-Works and small projects that were created can be seen in this repository.
-The main page here (or branch as they call) only contains the codes for the apps and it's components within them.
-To find the app and it's files, check the "Releases" section to find them.
+# Description
+The holiday spirit's here and it's time to decorate your Christmas tree made from Scratch engine. This is a simple game about decorating your Christmas tree with tree decorations like colorful baubles and shimmering stars and it is my first ever project.
 
-Finished Projects in this repository:
-1. Decorate Christmas Tree
+Play it directly from Scratch website:
+https://scratch.mit.edu/projects/1114334155
+
+Download the game (Only for Android):
+https://code-kiwi.itch.io/decorate-christmas-tree
+
+For the files directly from the Scratch engine, check through the release section or access it from the Scratch website in the link above.
